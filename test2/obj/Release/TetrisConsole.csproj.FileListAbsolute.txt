@@ -1,0 +1,16 @@
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\bin\Release\test2.exe.config
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\bin\Release\test2.exe
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\bin\Release\test2.pdb
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\obj\Release\TetrisConsole.csproj.AssemblyReference.cache
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\obj\Release\TetrisConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\obj\Release\TetrisConsole.csproj.CoreCompileInputs.cache
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\obj\Release\test2.exe
+C:\Users\Magnit96\source\repos\TetrisConsole\test2\obj\Release\test2.pdb
+F:\Coding\TetrisConsole\test2\bin\Release\test2.exe.config
+F:\Coding\TetrisConsole\test2\bin\Release\test2.exe
+F:\Coding\TetrisConsole\test2\bin\Release\test2.pdb
+F:\Coding\TetrisConsole\test2\obj\Release\TetrisConsole.csproj.AssemblyReference.cache
+F:\Coding\TetrisConsole\test2\obj\Release\TetrisConsole.csproj.SuggestedBindingRedirects.cache
+F:\Coding\TetrisConsole\test2\obj\Release\TetrisConsole.csproj.CoreCompileInputs.cache
+F:\Coding\TetrisConsole\test2\obj\Release\test2.exe
+F:\Coding\TetrisConsole\test2\obj\Release\test2.pdb
